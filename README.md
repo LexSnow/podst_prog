@@ -1,1 +1,0 @@
-# podst_prog
